@@ -3,11 +3,11 @@ tag: user.bash
 
 # bash/zsh with emacs key bindings
 
-clear:
+shell clear:
     key(ctrl-l)
 
-close shell:
-    key(ctrl-c)
+shell (exit | close):
+    #key(ctrl-c)
     key(ctrl-d)
 
 line start:

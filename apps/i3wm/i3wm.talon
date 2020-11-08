@@ -3,7 +3,7 @@ os: linux
 tag: user.i3wm
 -
 settings():
-    user.i3_config_path = "~/.i3/config"
+    user.i3_config_path = "~/.config/regolith/i3/config"
     user.i3_mod_key = "super"
 
 

@@ -1,5 +1,6 @@
 tag: user.bash
 -
+tag(): user.yarn
 
 # bash/zsh with emacs key bindings
 

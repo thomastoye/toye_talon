@@ -1,6 +1,8 @@
 tag: user.yarn
 -
-yarn: "yarn\n"
+yarn: "yarn "
+yarn run <user.text>: "yarn run {text}"
+yarn run: "yarn run "
 yarn install: "yarn\n"
 yarn build: "yarn build\n"
 yarn interactive upgrade: "yarn interactive-upgrade\n"
@@ -15,3 +17,4 @@ yarn link: "yarn link"
 yarn unlink: "yarn unlink"
 yarn link <user.text>: "yarn link {text}"
 yarn unlink <user.text>: "yarn unlink {text}"
+yarn publish: "yarn publish"
